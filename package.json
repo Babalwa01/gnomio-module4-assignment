@@ -1,0 +1,23 @@
+{
+  "name": "gnomio-module4-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babalwa01/gnomio-module4-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Babalwa01/gnomio-module4-assignment/issues"
+  },
+  "homepage": "https://github.com/Babalwa01/gnomio-module4-assignment#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  }
+}
